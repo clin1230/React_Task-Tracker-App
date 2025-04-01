@@ -2,7 +2,7 @@
 
 A modern task management application built with React, featuring a clean UI and comprehensive task tracking capabilities.
 
-![App Screenshot](public/screenshot.png)
+<img src="public/screenshot.png" alt="App Screenshot" width="500"/>
 
 ## Features
 
