@@ -2,6 +2,8 @@
 
 A modern task management application built with React, featuring a clean UI and comprehensive task tracking capabilities.
 
+![App Screenshot](public/screenshot.png)
+
 ## Features
 
 - Task Management (create, delete, complete)
